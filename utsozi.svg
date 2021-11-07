@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="246 132 766 465" width="520px" height="333px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <rect width="137" height="20" x="614" y="315" style="fill:#007;stroke:black;"/>
+   <text width="137" height="20" x="619" y="329" style="fill:#fff;" font-family="Arial" font-size="16px"> dimensi_employer</text>
+   <rect width="137" height="20" x="614" y="335" style="fill:none;stroke:black;"/>
+   <text width="137" height="20" x="619" y="349" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="137" height="20" x="614" y="355" style="fill:none;stroke:black;"/>
+   <text width="137" height="20" x="619" y="369" style="fill:black;" font-family="Arial" font-size="16px">nama_pegawai</text>
+   <rect width="137" height="20" x="614" y="375" style="fill:none;stroke:black;"/>
+   <text width="137" height="20" x="619" y="389" style="fill:black;" font-family="Arial" font-size="16px">pekerjaan</text>
+   <rect width="137" height="20" x="614" y="395" style="fill:none;stroke:black;"/>
+   <text width="137" height="20" x="619" y="409" style="fill:black;" font-family="Arial" font-size="16px">alamatkantor</text>
+   <rect width="137" height="20" x="614" y="415" style="fill:none;stroke:black;"/>
+   <text width="137" height="20" x="619" y="429" style="fill:black;" font-family="Arial" font-size="16px">jumlahcustomer</text>
+   <rect width="143" height="20" x="472" y="147" style="fill:#007;stroke:black;"/>
+   <text width="143" height="20" x="477" y="161" style="fill:#fff;" font-family="Arial" font-size="16px"> dimensi_konsumen</text>
+   <rect width="143" height="20" x="472" y="167" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="477" y="181" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="143" height="20" x="472" y="187" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="477" y="201" style="fill:black;" font-family="Arial" font-size="16px">nama_konsumen</text>
+   <rect width="143" height="20" x="472" y="207" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="477" y="221" style="fill:black;" font-family="Arial" font-size="16px">city</text>
+   <rect width="143" height="20" x="472" y="227" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="477" y="241" style="fill:black;" font-family="Arial" font-size="16px">order_number</text>
+   <rect width="143" height="20" x="472" y="247" style="fill:none;stroke:black;"/>
+   <text width="143" height="20" x="477" y="261" style="fill:black;" font-family="Arial" font-size="16px">email</text>
+   <rect width="125" height="20" x="261" y="290" style="fill:#007;stroke:black;"/>
+   <text width="125" height="20" x="266" y="304" style="fill:#fff;" font-family="Arial" font-size="16px"> dimensi_product</text>
+   <rect width="125" height="20" x="261" y="310" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="324" style="fill:black;" font-family="Arial" font-size="16px">id</text>
+   <rect width="125" height="20" x="261" y="330" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="344" style="fill:black;" font-family="Arial" font-size="16px">product_name</text>
+   <rect width="125" height="20" x="261" y="350" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="364" style="fill:black;" font-family="Arial" font-size="16px">product_scale</text>
+   <rect width="125" height="20" x="261" y="370" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="384" style="fill:black;" font-family="Arial" font-size="16px">buy_price</text>
+   <rect width="125" height="20" x="261" y="390" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="404" style="fill:black;" font-family="Arial" font-size="16px">msrg</text>
+   <rect width="125" height="20" x="261" y="410" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="424" style="fill:black;" font-family="Arial" font-size="16px">text_description</text>
+   <rect width="125" height="20" x="261" y="430" style="fill:none;stroke:black;"/>
+   <text width="125" height="20" x="266" y="444" style="fill:black;" font-family="Arial" font-size="16px">priceEach</text>
+</svg>
